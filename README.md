@@ -1,0 +1,2 @@
+# PaperHumanParticleSystem
+ An advanced Unity component designed for creating a dynamic paper human effect using a Particle System tied to a Skinned Mesh Renderer. This script ensures particles follow the mesh during animations, with support for detachment, reformation, and fluttering effects. The system is optimized to follow animated skinned meshes, making it suitable for complex animations and dynamic gameplay scenarios
