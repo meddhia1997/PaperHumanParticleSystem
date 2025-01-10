@@ -95,9 +95,8 @@ In the Inspector:
 - Ensure the parent object and skinned mesh are properly assigned in the Inspector.
 
 ---
-<video src="video/demo.mp4" controls width="600">
-    Your browser does not support the video tag.
-</video>
+[Watch the Demo Video](video/demo.mp4)
+
 
 
 ## Contributions
