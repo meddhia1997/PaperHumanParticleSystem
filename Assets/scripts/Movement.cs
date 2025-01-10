@@ -5,10 +5,14 @@ public class PaperHumanMovement : MonoBehaviour
     [Header("Movement Settings")]
     public float moveSpeed = 5f;   // Speed of movement
     public float rotationSpeed = 200f; // Speed of rotation
-
+    private Animator animator ;
 
     private Vector3 moveDirection; // Direction of movement
+ private void Start()
+ {
+     animator = GetComponent<Animator>();
 
+ }
     private void Update()
     {
         HandleMovement();
