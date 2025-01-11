@@ -95,7 +95,7 @@ In the Inspector:
 - Ensure the parent object and skinned mesh are properly assigned in the Inspector.
 
 ---
-[Watch the Demo Video](video/demo.gif)
+![til](video/demo.gif)
 
 
 
@@ -105,5 +105,5 @@ This component is a work in progress. Contributions, suggestions, and feedback a
 
 ---
 
-For any questions or issues, feel free to contact the developer or contribute directly to the project repository.
+For any questions or issues, feel free to contact me or contribute directly to the project repository.
 
