@@ -441,6 +441,8 @@ MonoBehaviour:
   returnSpeed: 2
   flutterSpeed: 1
   flutterAmplitude: 0.00001
+  moveSpeed: 5
+  rotationSpeed: 720
 --- !u!199 &1269923337
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -5780,6 +5782,8 @@ MonoBehaviour:
   returnSpeed: 2
   flutterSpeed: 1
   flutterAmplitude: 0.00001
+  moveSpeed: 0.1
+  rotationSpeed: 0
 --- !u!198 &2058899294
 ParticleSystem:
   m_ObjectHideFlags: 0
